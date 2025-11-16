@@ -1,5 +1,4 @@
 panel,currency,metric,name,date,adjustedClose
-currencies,EUR,EURUSD,EUR / USD,2013-11-15,1.3449
 currencies,EUR,EURUSD,EUR / USD,2013-11-18,1.3484
 currencies,EUR,EURUSD,EUR / USD,2013-11-19,1.3504
 currencies,EUR,EURUSD,EUR / USD,2013-11-20,1.3567
@@ -3352,7 +3351,7 @@ currencies,EUR,EURUSD,EUR / USD,2025-11-11,1.1587
 currencies,EUR,EURUSD,EUR / USD,2025-11-12,1.1592
 currencies,EUR,EURUSD,EUR / USD,2025-11-13,1.163
 currencies,EUR,EURUSD,EUR / USD,2025-11-14,1.162
-currencies,EUR,EURGBP,EUR / GBP,2013-11-15,0.8372
+currencies,EUR,EURUSD,EUR / USD,2025-11-15,1.162
 currencies,EUR,EURGBP,EUR / GBP,2013-11-18,0.8383
 currencies,EUR,EURGBP,EUR / GBP,2013-11-19,0.8399
 currencies,EUR,EURGBP,EUR / GBP,2013-11-20,0.8345
@@ -6509,7 +6508,6 @@ currencies,EUR,EURGBP,EUR / GBP,2025-11-11,0.8807
 currencies,EUR,EURGBP,EUR / GBP,2025-11-12,0.8828
 currencies,EUR,EURGBP,EUR / GBP,2025-11-13,0.8819
 currencies,EUR,EURGBP,EUR / GBP,2025-11-14,0.8818
-currencies,EUR,EURCHF,EUR / CHF,2013-11-15,1.2342
 currencies,EUR,EURCHF,EUR / CHF,2013-11-18,1.2343
 currencies,EUR,EURCHF,EUR / CHF,2013-11-19,1.2326
 currencies,EUR,EURCHF,EUR / CHF,2013-11-20,1.2325
@@ -9669,7 +9667,6 @@ currencies,EUR,EURCHF,EUR / CHF,2025-11-11,0.9273
 currencies,EUR,EURCHF,EUR / CHF,2025-11-12,0.925
 currencies,EUR,EURCHF,EUR / CHF,2025-11-13,0.9225
 currencies,EUR,EURCHF,EUR / CHF,2025-11-14,0.9223
-currencies,EUR,EURJPY,EUR / JPY,2013-11-15,135.19
 currencies,EUR,EURJPY,EUR / JPY,2013-11-18,135.0
 currencies,EUR,EURJPY,EUR / JPY,2013-11-19,135.56
 currencies,EUR,EURJPY,EUR / JPY,2013-11-20,134.41
@@ -12822,12 +12819,11 @@ currencies,EUR,EURJPY,EUR / JPY,2025-11-05,177.13
 currencies,EUR,EURJPY,EUR / JPY,2025-11-06,176.76
 currencies,EUR,EURJPY,EUR / JPY,2025-11-07,177.46
 currencies,EUR,EURJPY,EUR / JPY,2025-11-09,177.82
-currencies,EUR,EURJPY,EUR / JPY,2025-11-10,178.16
-currencies,EUR,EURJPY,EUR / JPY,2025-11-11,178.55
-currencies,EUR,EURJPY,EUR / JPY,2025-11-12,179.46
-currencies,EUR,EURJPY,EUR / JPY,2025-11-13,179.81
-currencies,EUR,EURJPY,EUR / JPY,2025-11-14,179.6
-currencies,EUR,EURPLN,EUR / PLN,2013-11-15,4.1879
+currencies,EUR,EURJPY,EUR / JPY,2025-11-10,177.563
+currencies,EUR,EURJPY,EUR / JPY,2025-11-11,178.144
+currencies,EUR,EURJPY,EUR / JPY,2025-11-12,178.527
+currencies,EUR,EURJPY,EUR / JPY,2025-11-13,179.338
+currencies,EUR,EURJPY,EUR / JPY,2025-11-14,179.832
 currencies,EUR,EURPLN,EUR / PLN,2013-11-18,4.1745
 currencies,EUR,EURPLN,EUR / PLN,2013-11-19,4.1826
 currencies,EUR,EURPLN,EUR / PLN,2013-11-20,4.1921
@@ -18030,7 +18026,6 @@ equities,EUR,VGWL,🐶 Global Equities,2025-11-11,142.08
 equities,EUR,VGWL,🐶 Global Equities,2025-11-12,142.7
 equities,EUR,VGWL,🐶 Global Equities,2025-11-13,140.86
 equities,EUR,VGWL,🐶 Global Equities,2025-11-14,140.72
-equities,EUR,SXR8,US Large Caps,2013-11-15,119.38
 equities,EUR,SXR8,US Large Caps,2013-11-18,119.38
 equities,EUR,SXR8,US Large Caps,2013-11-19,118.83
 equities,EUR,SXR8,US Large Caps,2013-11-20,119.61
@@ -21070,7 +21065,6 @@ equities,EUR,SXR8,US Large Caps,2025-11-11,628.76
 equities,EUR,SXR8,US Large Caps,2025-11-12,631.64
 equities,EUR,SXR8,US Large Caps,2025-11-13,622.5
 equities,EUR,SXR8,US Large Caps,2025-11-14,622.42
-equities,EUR,EUNL,Developed Markets,2013-11-15,28.5
 equities,EUR,EUNL,Developed Markets,2013-11-18,28.5
 equities,EUR,EUNL,Developed Markets,2013-11-19,28.34
 equities,EUR,EUNL,Developed Markets,2013-11-20,28.5
@@ -27012,7 +27006,6 @@ equities,EUR,IS3N,Emerging Markets,2025-11-11,38.772
 equities,EUR,IS3N,Emerging Markets,2025-11-12,38.949
 equities,EUR,IS3N,Emerging Markets,2025-11-13,38.546
 equities,EUR,IS3N,Emerging Markets,2025-11-14,38.616
-equities,EUR,EUNK,European Large Caps,2013-11-15,37.39
 equities,EUR,EUNK,European Large Caps,2013-11-18,37.55
 equities,EUR,EUNK,European Large Caps,2013-11-19,37.35
 equities,EUR,EUNK,European Large Caps,2013-11-20,37.42
@@ -30051,7 +30044,6 @@ equities,EUR,EUNK,European Large Caps,2025-11-11,92.05
 equities,EUR,EUNK,European Large Caps,2025-11-12,92.77
 equities,EUR,EUNK,European Large Caps,2025-11-13,92.18
 equities,EUR,EUNK,European Large Caps,2025-11-14,91.29
-yields10y,EUR,DE1Y,🇩🇪 Germany,2013-11-15,0.0776
 yields10y,EUR,DE1Y,🇩🇪 Germany,2013-11-18,0.0812
 yields10y,EUR,DE1Y,🇩🇪 Germany,2013-11-19,0.0807
 yields10y,EUR,DE1Y,🇩🇪 Germany,2013-11-20,0.0643
@@ -33140,7 +33132,6 @@ yields10y,EUR,DE1Y,🇩🇪 Germany,2025-11-11,1.98
 yields10y,EUR,DE1Y,🇩🇪 Germany,2025-11-12,1.9793
 yields10y,EUR,DE1Y,🇩🇪 Germany,2025-11-13,1.9938
 yields10y,EUR,DE1Y,🇩🇪 Germany,2025-11-14,2.0067
-yields10y,EUR,DE5Y,🇩🇪 Germany,2013-11-15,0.6505
 yields10y,EUR,DE5Y,🇩🇪 Germany,2013-11-18,0.6378
 yields10y,EUR,DE5Y,🇩🇪 Germany,2013-11-19,0.6672
 yields10y,EUR,DE5Y,🇩🇪 Germany,2013-11-20,0.6456
@@ -36231,7 +36222,6 @@ yields10y,EUR,DE5Y,🇩🇪 Germany,2025-11-11,2.2602
 yields10y,EUR,DE5Y,🇩🇪 Germany,2025-11-12,2.2534
 yields10y,EUR,DE5Y,🇩🇪 Germany,2025-11-13,2.3022
 yields10y,EUR,DE5Y,🇩🇪 Germany,2025-11-14,2.3161
-yields10y,EUR,DE10Y,🇩🇪 Germany,2013-11-15,1.7071
 yields10y,EUR,DE10Y,🇩🇪 Germany,2013-11-18,1.6854
 yields10y,EUR,DE10Y,🇩🇪 Germany,2013-11-19,1.7236
 yields10y,EUR,DE10Y,🇩🇪 Germany,2013-11-20,1.7236
@@ -39321,7 +39311,6 @@ yields10y,EUR,DE10Y,🇩🇪 Germany,2025-11-11,2.6629
 yields10y,EUR,DE10Y,🇩🇪 Germany,2025-11-12,2.6465
 yields10y,EUR,DE10Y,🇩🇪 Germany,2025-11-13,2.6924
 yields10y,EUR,DE10Y,🇩🇪 Germany,2025-11-14,2.7233
-yields10y,EUR,FR1Y,🇫🇷 France,2013-11-15,0.15
 yields10y,EUR,FR1Y,🇫🇷 France,2013-11-17,0.149
 yields10y,EUR,FR1Y,🇫🇷 France,2013-11-18,0.146
 yields10y,EUR,FR1Y,🇫🇷 France,2013-11-19,0.146
@@ -42486,7 +42475,6 @@ yields10y,EUR,FR1Y,🇫🇷 France,2025-11-11,2.081
 yields10y,EUR,FR1Y,🇫🇷 France,2025-11-12,2.0779
 yields10y,EUR,FR1Y,🇫🇷 France,2025-11-13,2.1267
 yields10y,EUR,FR1Y,🇫🇷 France,2025-11-14,2.1127
-yields10y,EUR,FR5Y,🇫🇷 France,2013-11-15,1.038
 yields10y,EUR,FR5Y,🇫🇷 France,2013-11-17,1.031
 yields10y,EUR,FR5Y,🇫🇷 France,2013-11-18,1.022
 yields10y,EUR,FR5Y,🇫🇷 France,2013-11-19,1.042
@@ -45875,7 +45863,6 @@ yields10y,EUR,FR5Y,🇫🇷 France,2025-11-11,2.7376
 yields10y,EUR,FR5Y,🇫🇷 France,2025-11-12,2.7129
 yields10y,EUR,FR5Y,🇫🇷 France,2025-11-13,2.7404
 yields10y,EUR,FR5Y,🇫🇷 France,2025-11-14,2.7824
-yields10y,EUR,FR10Y,🇫🇷 France,2013-11-15,2.255
 yields10y,EUR,FR10Y,🇫🇷 France,2013-11-17,2.251
 yields10y,EUR,FR10Y,🇫🇷 France,2013-11-18,2.244
 yields10y,EUR,FR10Y,🇫🇷 France,2013-11-19,2.27
@@ -52420,7 +52407,6 @@ yields10y,EUR,IT1Y,🇮🇹 Italy,2025-11-11,1.9158
 yields10y,EUR,IT1Y,🇮🇹 Italy,2025-11-12,1.9231
 yields10y,EUR,IT1Y,🇮🇹 Italy,2025-11-13,1.945
 yields10y,EUR,IT1Y,🇮🇹 Italy,2025-11-14,1.947
-yields10y,EUR,IT5Y,🇮🇹 Italy,2013-11-15,2.669
 yields10y,EUR,IT5Y,🇮🇹 Italy,2013-11-16,2.673
 yields10y,EUR,IT5Y,🇮🇹 Italy,2013-11-17,2.668
 yields10y,EUR,IT5Y,🇮🇹 Italy,2013-11-18,2.636
@@ -55065,7 +55051,6 @@ yields10y,EUR,IT5Y,🇮🇹 Italy,2025-11-11,2.689
 yields10y,EUR,IT5Y,🇮🇹 Italy,2025-11-12,2.6678
 yields10y,EUR,IT5Y,🇮🇹 Italy,2025-11-13,2.7219
 yields10y,EUR,IT5Y,🇮🇹 Italy,2025-11-14,2.7533
-yields10y,EUR,IT10Y,🇮🇹 Italy,2013-11-15,4.095
 yields10y,EUR,IT10Y,🇮🇹 Italy,2013-11-18,4.0711
 yields10y,EUR,IT10Y,🇮🇹 Italy,2013-11-19,4.0736
 yields10y,EUR,IT10Y,🇮🇹 Italy,2013-11-20,4.0803
@@ -57906,7 +57891,6 @@ yields10y,EUR,IT10Y,🇮🇹 Italy,2025-11-11,3.4049
 yields10y,EUR,IT10Y,🇮🇹 Italy,2025-11-12,3.3772
 yields10y,EUR,IT10Y,🇮🇹 Italy,2025-11-13,3.4224
 yields10y,EUR,IT10Y,🇮🇹 Italy,2025-11-14,3.4689
-yields10y,EUR,ES1Y,🇪🇸 Spain,2013-11-15,0.642
 yields10y,EUR,ES1Y,🇪🇸 Spain,2013-11-16,0.942
 yields10y,EUR,ES1Y,🇪🇸 Spain,2013-11-17,0.688
 yields10y,EUR,ES1Y,🇪🇸 Spain,2013-11-18,0.675
@@ -61187,7 +61171,6 @@ yields10y,EUR,ES1Y,🇪🇸 Spain,2025-11-11,2.007
 yields10y,EUR,ES1Y,🇪🇸 Spain,2025-11-12,2.01
 yields10y,EUR,ES1Y,🇪🇸 Spain,2025-11-13,2.017
 yields10y,EUR,ES1Y,🇪🇸 Spain,2025-11-14,2.014
-yields10y,EUR,ES5Y,🇪🇸 Spain,2013-11-15,2.644
 yields10y,EUR,ES5Y,🇪🇸 Spain,2013-11-16,2.642
 yields10y,EUR,ES5Y,🇪🇸 Spain,2013-11-17,2.637
 yields10y,EUR,ES5Y,🇪🇸 Spain,2013-11-18,2.614
@@ -64616,7 +64599,6 @@ yields10y,EUR,ES5Y,🇪🇸 Spain,2025-11-11,2.5217
 yields10y,EUR,ES5Y,🇪🇸 Spain,2025-11-12,2.5165
 yields10y,EUR,ES5Y,🇪🇸 Spain,2025-11-13,2.5474
 yields10y,EUR,ES5Y,🇪🇸 Spain,2025-11-14,2.5752
-yields10y,EUR,ES10Y,🇪🇸 Spain,2013-11-15,4.084
 yields10y,EUR,ES10Y,🇪🇸 Spain,2013-11-16,4.074
 yields10y,EUR,ES10Y,🇪🇸 Spain,2013-11-17,4.074
 yields10y,EUR,ES10Y,🇪🇸 Spain,2013-11-18,4.071
@@ -68054,7 +68036,6 @@ yields10y,EUR,ES10Y,🇪🇸 Spain,2025-11-11,3.1581
 yields10y,EUR,ES10Y,🇪🇸 Spain,2025-11-12,3.1494
 yields10y,EUR,ES10Y,🇪🇸 Spain,2025-11-13,3.1871
 yields10y,EUR,ES10Y,🇪🇸 Spain,2025-11-14,3.2189
-diversifiers,EUR,XEON,Cash,2013-11-15,139.75
 diversifiers,EUR,XEON,Cash,2013-11-18,139.75
 diversifiers,EUR,XEON,Cash,2013-11-19,139.747
 diversifiers,EUR,XEON,Cash,2013-11-20,139.75
