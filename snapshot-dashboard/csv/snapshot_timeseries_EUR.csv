@@ -3350,8 +3350,10 @@ currencies,EUR,EURUSD,EUR / USD,2025-11-10,1.1557
 currencies,EUR,EURUSD,EUR / USD,2025-11-11,1.1587
 currencies,EUR,EURUSD,EUR / USD,2025-11-12,1.1592
 currencies,EUR,EURUSD,EUR / USD,2025-11-13,1.163
-currencies,EUR,EURUSD,EUR / USD,2025-11-14,1.162
+currencies,EUR,EURUSD,EUR / USD,2025-11-14,1.1622
 currencies,EUR,EURUSD,EUR / USD,2025-11-15,1.162
+currencies,EUR,EURUSD,EUR / USD,2025-11-16,1.1615
+currencies,EUR,EURUSD,EUR / USD,2025-11-17,1.1604
 currencies,EUR,EURGBP,EUR / GBP,2013-11-18,0.8383
 currencies,EUR,EURGBP,EUR / GBP,2013-11-19,0.8399
 currencies,EUR,EURGBP,EUR / GBP,2013-11-20,0.8345
@@ -6507,7 +6509,9 @@ currencies,EUR,EURGBP,EUR / GBP,2025-11-10,0.8773
 currencies,EUR,EURGBP,EUR / GBP,2025-11-11,0.8807
 currencies,EUR,EURGBP,EUR / GBP,2025-11-12,0.8828
 currencies,EUR,EURGBP,EUR / GBP,2025-11-13,0.8819
-currencies,EUR,EURGBP,EUR / GBP,2025-11-14,0.8818
+currencies,EUR,EURGBP,EUR / GBP,2025-11-14,0.8822
+currencies,EUR,EURGBP,EUR / GBP,2025-11-16,0.8827
+currencies,EUR,EURGBP,EUR / GBP,2025-11-17,0.8819
 currencies,EUR,EURCHF,EUR / CHF,2013-11-18,1.2343
 currencies,EUR,EURCHF,EUR / CHF,2013-11-19,1.2326
 currencies,EUR,EURCHF,EUR / CHF,2013-11-20,1.2325
@@ -9666,7 +9670,9 @@ currencies,EUR,EURCHF,EUR / CHF,2025-11-10,0.9306
 currencies,EUR,EURCHF,EUR / CHF,2025-11-11,0.9273
 currencies,EUR,EURCHF,EUR / CHF,2025-11-12,0.925
 currencies,EUR,EURCHF,EUR / CHF,2025-11-13,0.9225
-currencies,EUR,EURCHF,EUR / CHF,2025-11-14,0.9223
+currencies,EUR,EURCHF,EUR / CHF,2025-11-14,0.9227
+currencies,EUR,EURCHF,EUR / CHF,2025-11-16,0.9223
+currencies,EUR,EURCHF,EUR / CHF,2025-11-17,0.9219
 currencies,EUR,EURJPY,EUR / JPY,2013-11-18,135.0
 currencies,EUR,EURJPY,EUR / JPY,2013-11-19,135.56
 currencies,EUR,EURJPY,EUR / JPY,2013-11-20,134.41
@@ -12824,6 +12830,8 @@ currencies,EUR,EURJPY,EUR / JPY,2025-11-11,178.144
 currencies,EUR,EURJPY,EUR / JPY,2025-11-12,178.527
 currencies,EUR,EURJPY,EUR / JPY,2025-11-13,179.338
 currencies,EUR,EURJPY,EUR / JPY,2025-11-14,179.832
+currencies,EUR,EURJPY,EUR / JPY,2025-11-16,179.483
+currencies,EUR,EURJPY,EUR / JPY,2025-11-17,179.659
 currencies,EUR,EURPLN,EUR / PLN,2013-11-18,4.1745
 currencies,EUR,EURPLN,EUR / PLN,2013-11-19,4.1826
 currencies,EUR,EURPLN,EUR / PLN,2013-11-20,4.1921
@@ -15980,7 +15988,9 @@ currencies,EUR,EURPLN,EUR / PLN,2025-11-10,4.2338
 currencies,EUR,EURPLN,EUR / PLN,2025-11-11,4.2304
 currencies,EUR,EURPLN,EUR / PLN,2025-11-12,4.233
 currencies,EUR,EURPLN,EUR / PLN,2025-11-13,4.2309
-currencies,EUR,EURPLN,EUR / PLN,2025-11-14,4.2231
+currencies,EUR,EURPLN,EUR / PLN,2025-11-14,4.2278
+currencies,EUR,EURPLN,EUR / PLN,2025-11-16,4.219
+currencies,EUR,EURPLN,EUR / PLN,2025-11-17,4.223
 equities,EUR,VGWL,🐶 Global Equities,2017-10-26,60.5607
 equities,EUR,VGWL,🐶 Global Equities,2017-10-27,61.2964
 equities,EUR,VGWL,🐶 Global Equities,2017-10-30,61.0454
@@ -33132,6 +33142,7 @@ yields10y,EUR,DE1Y,🇩🇪 Germany,2025-11-11,1.98
 yields10y,EUR,DE1Y,🇩🇪 Germany,2025-11-12,1.9793
 yields10y,EUR,DE1Y,🇩🇪 Germany,2025-11-13,1.9938
 yields10y,EUR,DE1Y,🇩🇪 Germany,2025-11-14,2.0067
+yields10y,EUR,DE1Y,🇩🇪 Germany,2025-11-17,1.9906
 yields10y,EUR,DE5Y,🇩🇪 Germany,2013-11-18,0.6378
 yields10y,EUR,DE5Y,🇩🇪 Germany,2013-11-19,0.6672
 yields10y,EUR,DE5Y,🇩🇪 Germany,2013-11-20,0.6456
@@ -36222,6 +36233,7 @@ yields10y,EUR,DE5Y,🇩🇪 Germany,2025-11-11,2.2602
 yields10y,EUR,DE5Y,🇩🇪 Germany,2025-11-12,2.2534
 yields10y,EUR,DE5Y,🇩🇪 Germany,2025-11-13,2.3022
 yields10y,EUR,DE5Y,🇩🇪 Germany,2025-11-14,2.3161
+yields10y,EUR,DE5Y,🇩🇪 Germany,2025-11-17,2.3081
 yields10y,EUR,DE10Y,🇩🇪 Germany,2013-11-18,1.6854
 yields10y,EUR,DE10Y,🇩🇪 Germany,2013-11-19,1.7236
 yields10y,EUR,DE10Y,🇩🇪 Germany,2013-11-20,1.7236
@@ -39311,6 +39323,7 @@ yields10y,EUR,DE10Y,🇩🇪 Germany,2025-11-11,2.6629
 yields10y,EUR,DE10Y,🇩🇪 Germany,2025-11-12,2.6465
 yields10y,EUR,DE10Y,🇩🇪 Germany,2025-11-13,2.6924
 yields10y,EUR,DE10Y,🇩🇪 Germany,2025-11-14,2.7233
+yields10y,EUR,DE10Y,🇩🇪 Germany,2025-11-17,2.7187
 yields10y,EUR,FR1Y,🇫🇷 France,2013-11-17,0.149
 yields10y,EUR,FR1Y,🇫🇷 France,2013-11-18,0.146
 yields10y,EUR,FR1Y,🇫🇷 France,2013-11-19,0.146
@@ -42475,6 +42488,7 @@ yields10y,EUR,FR1Y,🇫🇷 France,2025-11-11,2.081
 yields10y,EUR,FR1Y,🇫🇷 France,2025-11-12,2.0779
 yields10y,EUR,FR1Y,🇫🇷 France,2025-11-13,2.1267
 yields10y,EUR,FR1Y,🇫🇷 France,2025-11-14,2.1127
+yields10y,EUR,FR1Y,🇫🇷 France,2025-11-17,2.1088
 yields10y,EUR,FR5Y,🇫🇷 France,2013-11-17,1.031
 yields10y,EUR,FR5Y,🇫🇷 France,2013-11-18,1.022
 yields10y,EUR,FR5Y,🇫🇷 France,2013-11-19,1.042
@@ -45863,6 +45877,7 @@ yields10y,EUR,FR5Y,🇫🇷 France,2025-11-11,2.7376
 yields10y,EUR,FR5Y,🇫🇷 France,2025-11-12,2.7129
 yields10y,EUR,FR5Y,🇫🇷 France,2025-11-13,2.7404
 yields10y,EUR,FR5Y,🇫🇷 France,2025-11-14,2.7824
+yields10y,EUR,FR5Y,🇫🇷 France,2025-11-17,2.7706
 yields10y,EUR,FR10Y,🇫🇷 France,2013-11-17,2.251
 yields10y,EUR,FR10Y,🇫🇷 France,2013-11-18,2.244
 yields10y,EUR,FR10Y,🇫🇷 France,2013-11-19,2.27
@@ -49180,6 +49195,7 @@ yields10y,EUR,FR10Y,🇫🇷 France,2025-11-11,3.4232
 yields10y,EUR,FR10Y,🇫🇷 France,2025-11-12,3.3848
 yields10y,EUR,FR10Y,🇫🇷 France,2025-11-13,3.4227
 yields10y,EUR,FR10Y,🇫🇷 France,2025-11-14,3.4587
+yields10y,EUR,FR10Y,🇫🇷 France,2025-11-17,3.4573
 yields10y,EUR,IT1Y,🇮🇹 Italy,2013-12-27,1.006
 yields10y,EUR,IT1Y,🇮🇹 Italy,2013-12-28,1.006
 yields10y,EUR,IT1Y,🇮🇹 Italy,2013-12-30,0.958
@@ -52407,7 +52423,7 @@ yields10y,EUR,IT1Y,🇮🇹 Italy,2025-11-11,1.9158
 yields10y,EUR,IT1Y,🇮🇹 Italy,2025-11-12,1.9231
 yields10y,EUR,IT1Y,🇮🇹 Italy,2025-11-13,1.945
 yields10y,EUR,IT1Y,🇮🇹 Italy,2025-11-14,1.947
-yields10y,EUR,IT5Y,🇮🇹 Italy,2013-11-16,2.673
+yields10y,EUR,IT1Y,🇮🇹 Italy,2025-11-17,1.9374
 yields10y,EUR,IT5Y,🇮🇹 Italy,2013-11-17,2.668
 yields10y,EUR,IT5Y,🇮🇹 Italy,2013-11-18,2.636
 yields10y,EUR,IT5Y,🇮🇹 Italy,2013-11-19,2.656
@@ -55051,6 +55067,7 @@ yields10y,EUR,IT5Y,🇮🇹 Italy,2025-11-11,2.689
 yields10y,EUR,IT5Y,🇮🇹 Italy,2025-11-12,2.6678
 yields10y,EUR,IT5Y,🇮🇹 Italy,2025-11-13,2.7219
 yields10y,EUR,IT5Y,🇮🇹 Italy,2025-11-14,2.7533
+yields10y,EUR,IT5Y,🇮🇹 Italy,2025-11-17,2.7452
 yields10y,EUR,IT10Y,🇮🇹 Italy,2013-11-18,4.0711
 yields10y,EUR,IT10Y,🇮🇹 Italy,2013-11-19,4.0736
 yields10y,EUR,IT10Y,🇮🇹 Italy,2013-11-20,4.0803
@@ -57891,7 +57908,7 @@ yields10y,EUR,IT10Y,🇮🇹 Italy,2025-11-11,3.4049
 yields10y,EUR,IT10Y,🇮🇹 Italy,2025-11-12,3.3772
 yields10y,EUR,IT10Y,🇮🇹 Italy,2025-11-13,3.4224
 yields10y,EUR,IT10Y,🇮🇹 Italy,2025-11-14,3.4689
-yields10y,EUR,ES1Y,🇪🇸 Spain,2013-11-16,0.942
+yields10y,EUR,IT10Y,🇮🇹 Italy,2025-11-17,3.4697
 yields10y,EUR,ES1Y,🇪🇸 Spain,2013-11-17,0.688
 yields10y,EUR,ES1Y,🇪🇸 Spain,2013-11-18,0.675
 yields10y,EUR,ES1Y,🇪🇸 Spain,2013-11-19,0.729
@@ -61171,7 +61188,6 @@ yields10y,EUR,ES1Y,🇪🇸 Spain,2025-11-11,2.007
 yields10y,EUR,ES1Y,🇪🇸 Spain,2025-11-12,2.01
 yields10y,EUR,ES1Y,🇪🇸 Spain,2025-11-13,2.017
 yields10y,EUR,ES1Y,🇪🇸 Spain,2025-11-14,2.014
-yields10y,EUR,ES5Y,🇪🇸 Spain,2013-11-16,2.642
 yields10y,EUR,ES5Y,🇪🇸 Spain,2013-11-17,2.637
 yields10y,EUR,ES5Y,🇪🇸 Spain,2013-11-18,2.614
 yields10y,EUR,ES5Y,🇪🇸 Spain,2013-11-19,2.639
@@ -64599,7 +64615,7 @@ yields10y,EUR,ES5Y,🇪🇸 Spain,2025-11-11,2.5217
 yields10y,EUR,ES5Y,🇪🇸 Spain,2025-11-12,2.5165
 yields10y,EUR,ES5Y,🇪🇸 Spain,2025-11-13,2.5474
 yields10y,EUR,ES5Y,🇪🇸 Spain,2025-11-14,2.5752
-yields10y,EUR,ES10Y,🇪🇸 Spain,2013-11-16,4.074
+yields10y,EUR,ES5Y,🇪🇸 Spain,2025-11-17,2.5747
 yields10y,EUR,ES10Y,🇪🇸 Spain,2013-11-17,4.074
 yields10y,EUR,ES10Y,🇪🇸 Spain,2013-11-18,4.071
 yields10y,EUR,ES10Y,🇪🇸 Spain,2013-11-19,4.092
@@ -68036,6 +68052,7 @@ yields10y,EUR,ES10Y,🇪🇸 Spain,2025-11-11,3.1581
 yields10y,EUR,ES10Y,🇪🇸 Spain,2025-11-12,3.1494
 yields10y,EUR,ES10Y,🇪🇸 Spain,2025-11-13,3.1871
 yields10y,EUR,ES10Y,🇪🇸 Spain,2025-11-14,3.2189
+yields10y,EUR,ES10Y,🇪🇸 Spain,2025-11-17,3.2231
 diversifiers,EUR,XEON,Cash,2013-11-18,139.75
 diversifiers,EUR,XEON,Cash,2013-11-19,139.747
 diversifiers,EUR,XEON,Cash,2013-11-20,139.75
