@@ -1,0 +1,55 @@
+country,country_code,sp,moodys,fitch
+United Arab Emirates,AE,AA,Aa2,AA−
+Austria,AT,AA+,Aa1,AA
+Australia,AU,AAA,Aaa,AAA
+Belgium,BE,AA,Aa3,A+
+Brazil,BR,BB,Ba1,BB
+Canada,CA,AAA,Aaa,AA+
+Switzerland,CH,AAA,Aaa,AAA
+China,CN,A+,A1,A
+Cyprus,CY,A−,A3,A−
+Czechia,CZ,AA−,Aa3,AA−
+Germany,DE,AAA,Aaa,AAA
+Denmark,DK,AAA,Aaa,AAA
+Estonia,EE,A+,A1,A+
+Spain,ES,A+,A3,A
+Finland,FI,AA+,Aa1,AA
+France,FR,A+,Aa3,A+
+United Kingdom,GB,AA,Aa3,AA−
+Greece,GR,BBB,Baa3,BBB
+Croatia,HR,A−,A3,A−
+Hungary,HU,BBB−,Baa2,BBB
+Indonesia,ID,BBB,Baa2,BBB
+Ireland,IE,AA,Aa3,AA
+Israel,IL,A,Baa1,A
+India,IN,BBB,Baa3,BBB−
+Iceland,IS,A+,A1,A
+Italy,IT,BBB+,Baa3,BBB+
+Japan,JP,A+,A1,A
+South Korea,KR,AA,Aa2,AA−
+Lebanon,LB,SD,C,WD
+Lithuania,LT,A,A2,A
+Luxembourg,LU,AAA,Aaa,AAA
+Latvia,LV,A,A3,A−
+Malta,MT,A−,A2,A+
+Mexico,MX,BBB,Baa2,BBB−
+Malaysia,MY,A−,A3,BBB+
+Netherlands,NL,AAA,Aaa,AAA
+Norway,NO,AAA,Aaa,AAA
+New Zealand,NZ,AA+,Aaa,AA+
+Philippines,PH,BBB+,Baa2,BBB
+Pakistan,PK,B−,Caa1,B−
+Poland,PL,A−,A2,A−
+Portugal,PT,A+,A3,A
+Romania,RO,BBB−,Baa3,BBB−
+Russia,RU,,Ca,WD
+Sweden,SE,AAA,Aaa,AAA
+Singapore,SG,AAA,Aaa,AAA
+Slovenia,SI,AA,A3,A+
+Slovakia,SK,A+,A3,A−
+Thailand,TH,BBB+,Baa1,BBB+
+Turkey,TR,BB−,B1,BB−
+United States,US,AA+,Aa1,AA+
+Uzbekistan,UZ,BB−,Ba3,BB
+Vietnam,VN,BB+,Ba2,
+South Africa,ZA,BB−,Ba2,BB−
