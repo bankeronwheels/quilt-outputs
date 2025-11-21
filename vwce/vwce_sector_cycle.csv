@@ -1,12 +1,12 @@
 category,sector,weight
-Correlated,Basic Materials,3.54071
-Correlated,Consumer Cyclicals,10.53635
-Correlated,Financial Services,17.23391
-Correlated,Real Estate,2.0191
-Somewhat Correlated,Communication Services,9.06779
-Somewhat Correlated,Energy,3.51253
-Somewhat Correlated,Industrials,10.35238
-Somewhat Correlated,Technology,27.61222
-Anticorrelated,Consumer Defensive,5.16829
-Anticorrelated,Healthcare,8.4221
-Anticorrelated,Utilities,2.53462
+Correlated,Basic Materials,3.41837
+Correlated,Consumer Cyclicals,10.51444
+Correlated,Financial Services,16.64683
+Correlated,Real Estate,1.9339
+Somewhat Correlated,Communication Services,8.83884
+Somewhat Correlated,Energy,3.44738
+Somewhat Correlated,Industrials,10.31101
+Somewhat Correlated,Technology,28.88865
+Anticorrelated,Consumer Defensive,4.97268
+Anticorrelated,Healthcare,8.4653
+Anticorrelated,Utilities,2.5626
