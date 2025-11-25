@@ -1,5 +1,5 @@
 region,category,issuer,horizon,ticker,exchange,duration_yrs,ytm_pct,ter_pct,benchmark,maxdd_pct,dd_start,dd_end,ytd_pct,order
-Aggregate,Aggregate,Global,Medium,VAGE,XETRA,6.31085,3.76938,10.0,Morningstar Gbl Core Bd GR ...,-19.43310288037605,2021-01-04,Ongoing,3.2092590495788498,1
+Aggregate,Aggregate,Global,Medium,VAGE,XETRA,6.31085,3.76938,10.0,Morningstar Gbl Core Bd GR ...,-19.43310288037605,2021-01-04,Ongoing,3.3766387208254756,1
 Aggregate,Aggregate,European,Medium,SYBA,XETRA,6.31,2.88,17.0,Morningstar EZN Core Bd GR EUR,-20.575765346028497,2020-12-14,Ongoing,1.5525780758943952,2
 Aggregate,Aggregate,Global,Medium,EUNU,XETRA,6.30941,3.47,10.0,Morningstar Gbl Core Bd GR USD,-12.880011749155528,2021-12-07,Ongoing,-4.549403092502036,3
 Aggregate,Aggregate,European,Medium,EUNA,XETRA,6.30941,3.47,10.0,Morningstar Gbl Core Bd GR ...,-17.791297251177806,2021-01-04,Ongoing,2.596028139201878,4
@@ -9,6 +9,6 @@ Government,Government,UK,Medium/Long,IGLT,LSE,7.80634,4.3,7.000000000000001,Morn
 Government,Government,European,Medium/Long,LYXD,XETRA,7.499,3.0,17.0,Morningstar EZN Trsy Bd GR EUR,-22.485587811406216,2020-12-15,Ongoing,2.2597683212292052,8
 Government,Government,European,Medium/Long,EUNH,XETRA,7.06389,2.78,7.000000000000001,Morningstar EZN Trsy Bd GR EUR,-22.428665709072547,2020-12-11,Ongoing,1.2305765027994964,9
 Government,Government,European,Medium/Long,X03F,XETRA,7.05,2.79,11.0,Morningstar EZN Trsy Bd GR EUR,-22.47291806028415,2020-12-11,Ongoing,1.0262716889377632,10
-Government,Government,European,Medium/Long,VGEB,XETRA,7.03425,2.86044,7.000000000000001,Morningstar EZN Trsy Bd GR EUR,-22.147300496727162,2020-12-11,Ongoing,1.0194582772239613,11
+Government,Government,European,Medium/Long,VGEB,XETRA,7.03425,2.86044,7.000000000000001,Morningstar EZN Trsy Bd GR EUR,-22.147300496727162,2020-12-11,Ongoing,1.164062288177714,11
 Government,Government,Global,Medium,DBZB,XETRA,6.83,3.35,26.0,Morningstar Gbl Trsy Bd GR ...,-21.88138240358817,2020-03-09,Ongoing,1.5479280838381015,12
 Government,Government,Global,Medium,EUN3,XETRA,6.7665,3.42,20.0,Morningstar Gbl Trsy Bd GR USD,-21.484512806039657,2020-04-29,Ongoing,-5.8191601714638,13
