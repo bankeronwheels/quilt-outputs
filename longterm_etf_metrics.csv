@@ -1,34 +1,34 @@
 region,name,category,geography,currency,horizon,ticker,exchange,duration_yrs,ytm_pct,ter_pct,benchmark,maxdd_pct,dd_start,dd_end,ytd_pct,order
-Aggregate - Global,iShares Core Global Aggregate Bond UCITS ETF,Aggregate,Global,USD,Medium,AGGU,LSE,6.30941,3.47,10.0,Morningstar Gbl Core Bd GR ...,-15.553253927153454,2021-01-04,2025-10-14,4.687218316206976,1
+Aggregate - Global,iShares Core Global Aggregate Bond UCITS ETF,Aggregate,Global,USD,Medium,AGGU,LSE,6.30941,3.47,10.0,Morningstar Gbl Core Bd GR ...,-15.553253927153454,2021-01-04,2025-10-14,4.758471521268937,1
 Aggregate - Global,iShares Core Global Aggregate Bond UCITS ETF,Aggregate,Global,EUR,Medium,EUNA,XETRA,6.30941,3.47,10.0,Morningstar Gbl Core Bd GR ...,-17.791297251177806,2021-01-04,Ongoing,2.7786424287700395,2
-Aggregate - Global,iShares Core Global Aggregate Bond UCITS ETF,Aggregate,Global,GBP,Medium,AGBP,LSE,6.30941,3.47,10.0,Morningstar Gbl Core Bd GR ...,-19.375703037120353,2020-03-09,Ongoing,1.1125513069777604,3
-Aggregate - Global,Vanguard Global Aggregate Bond UCITS ETF,Aggregate,Global,USD,Medium,VAGU,LSE,6.31085,3.76938,8.0,Morningstar Gbl Core Bd GR ...,-17.417582417582413,2021-01-04,Ongoing,4.98046875,4
-Aggregate - Global,Vanguard Global Aggregate Bond UCITS ETF,Aggregate,Global,GBP,Medium,VAGS,LSE,6.31085,3.76938,8.0,Morningstar Gbl Core Bd GR ...,-17.987351190476186,2020-12-14,Ongoing,5.204195946634083,5
+Aggregate - Global,iShares Core Global Aggregate Bond UCITS ETF,Aggregate,Global,GBP,Medium,AGBP,LSE,6.30941,3.47,10.0,Morningstar Gbl Core Bd GR ...,-19.375703037120353,2020-03-09,Ongoing,1.3399610979036192,3
+Aggregate - Global,Vanguard Global Aggregate Bond UCITS ETF,Aggregate,Global,USD,Medium,VAGU,LSE,6.31085,3.76938,8.0,Morningstar Gbl Core Bd GR ...,-17.417582417582413,2021-01-04,Ongoing,5.019003995711935,4
+Aggregate - Global,Vanguard Global Aggregate Bond UCITS ETF,Aggregate,Global,GBP,Medium,VAGS,LSE,6.31085,3.76938,8.0,Morningstar Gbl Core Bd GR ...,-17.987351190476186,2020-12-14,Ongoing,4.9157018078407555,5
 Aggregate - Global,Vanguard Global Aggregate Bond UCITS ETF,Aggregate,Global,EUR,Medium,VAGF,XETRA,6.31085,3.76938,10.0,Morningstar Gbl Core Bd GR ...,-19.56726601078065,2020-12-30,Ongoing,3.385134842647508,6
 Aggregate - Global,Vanguard Global Aggregate Bond UCITS ETF,Aggregate,Global,CHF,Medium,VAGX,SW,6.31085,3.76938,10.0,Morningstar Gbl Core Bd GR ...,-19.74070351758793,2021-12-06,Ongoing,1.2610460950561508,7
-Aggregate - Global,SPDR Bloomberg Global Aggregate Bond UCITS ETF,Aggregate,Global,USD,Medium,GLAD,LSE,6.44,3.4799999999999995,10.0,Morningstar Gbl Core Bd GR ...,-15.202164915631954,2021-01-04,2025-09-11,4.7279953630868565,8
+Aggregate - Global,SPDR Bloomberg Global Aggregate Bond UCITS ETF,Aggregate,Global,USD,Medium,GLAD,LSE,6.44,3.4799999999999995,10.0,Morningstar Gbl Core Bd GR ...,-15.202164915631954,2021-01-04,2025-09-11,4.767422612150307,8
 Aggregate - Global,SPDR Bloomberg Global Aggregate Bond UCITS ETF,Aggregate,Global,EUR,Medium,SPFF,XETRA,6.44,3.4799999999999995,0.0,,-4.759714876983223,2023-02-02,2023-12-14,2.9496929391924054,9
 Aggregate - Global,SPDR Bloomberg Global Aggregate Bond UCITS ETF,Aggregate,Global,CHF,Medium,GLAC,SW,6.44,3.4799999999999995,10.0,Morningstar Gbl Core Bd GR ...,-19.26040538449636,2020-07-23,Ongoing,0.7897623400365594,10
-Aggregate - Global,SPDR Bloomberg Global Aggregate Bond UCITS ETF,Aggregate,Global,GBP,Medium,GLAB,LSE,6.44,3.4799999999999995,10.0,Morningstar Gbl Core Bd GR ...,-15.676614694540502,2021-01-04,Ongoing,3.35421575418271,11
+Aggregate - Global,SPDR Bloomberg Global Aggregate Bond UCITS ETF,Aggregate,Global,GBP,Medium,GLAB,LSE,6.44,3.4799999999999995,10.0,Morningstar Gbl Core Bd GR ...,-15.676614694540502,2021-01-04,Ongoing,3.245238707528575,11
 Aggregate - European,iShares EUR Aggregate Bond ESG SRI UCITS ETF,Aggregate,European,EUR,Medium,EUN4,XETRA,6.25358,2.82,16.0,Morningstar EZN Core Bd GR EUR,-20.447002848835506,2020-12-11,Ongoing,1.6986048536617337,12
 Aggregate - European,SPDR Bloomberg Euro Aggregate Bond UCITS ETF,Aggregate,European,EUR,Medium,SYBA,XETRA,6.31,2.88,17.0,Morningstar EZN Core Bd GR EUR,-20.575765346028497,2020-12-14,Ongoing,1.7663962603936767,13
-Aggregate - US,iShares US Aggregate Bond UCITS ETF,Aggregate,US,USD,Medium,IUAA,LSE,5.87912,4.51,25.0,Morningstar US Core Bd TR USD,-19.018157363819775,2020-08-06,Ongoing,6.788511749347248,14
+Aggregate - US,iShares US Aggregate Bond UCITS ETF,Aggregate,US,USD,Medium,IUAA,LSE,5.87912,4.51,25.0,Morningstar US Core Bd TR USD,-19.018157363819775,2020-08-06,Ongoing,7.066940145440981,14
 Aggregate - US,iShares US Aggregate Bond UCITS ETF,Aggregate,US,EUR,Medium,CEBX,XETRA,,,,,-5.450313051854239,2024-09-16,2025-09-08,5.003981392230017,15
-Aggregate - US,iShares US Aggregate Bond UCITS ETF,Aggregate,US,GBP,Medium,IUGA,LSE,,,,,-21.319903915040673,2020-08-06,Ongoing,6.809895514718467,16
-Government - Global,iShares Global Government Bond UCITS ETF,Government,Global,USD,Medium,IGLA,LSE,6.7665,3.42,20.0,Morningstar Gbl Trsy Bd GR USD,-28.009617035892155,2021-01-04,Ongoing,6.472332015810278,17
-Government - Global,iShares Global Government Bond UCITS ETF,Government,Global,EUR,Medium,IGLE,AS,6.7665,3.42,25.0,Morningstar Gbl Trsy Bd GR ...,-20.853948670442346,2020-08-04,Ongoing,2.3779598813533642,18
-Government - Global,iShares Global Government Bond UCITS ETF,Government,Global,GBP,Medium,IGLH,LSE,6.7665,3.42,25.0,Morningstar Gbl Trsy Bd GR ...,-18.44479674319378,2020-03-09,Ongoing,3.766650331892918,19
+Aggregate - US,iShares US Aggregate Bond UCITS ETF,Aggregate,US,GBP,Medium,IUGA,LSE,,,,,-21.319903915040673,2020-08-06,Ongoing,6.6637343303276975,16
+Government - Global,iShares Global Government Bond UCITS ETF,Government,Global,USD,Medium,IGLA,LSE,6.7665,3.42,20.0,Morningstar Gbl Trsy Bd GR USD,-28.009617035892155,2021-01-04,Ongoing,5.839172505839185,17
+Government - Global,iShares Global Government Bond UCITS ETF,Government,Global,EUR,Medium,IGLE,AS,6.7665,3.42,25.0,Morningstar Gbl Trsy Bd GR ...,-20.853948670442346,2020-08-04,Ongoing,2.3213747362074155,18
+Government - Global,iShares Global Government Bond UCITS ETF,Government,Global,GBP,Medium,IGLH,LSE,6.7665,3.42,25.0,Morningstar Gbl Trsy Bd GR ...,-18.44479674319378,2020-03-09,Ongoing,3.7135160406972956,19
 Government - Global,Xtrackers II Global Government UCITS ETF,Government,Global,EUR,Medium,DBZB,XETRA,6.83,3.35,26.0,Morningstar Gbl Trsy Bd GR ...,-21.88138240358817,2020-03-09,Ongoing,1.8459763484280467,20
 Government - Global,Xtrackers II Global Government UCITS ETF,Government,Global,CHF,Medium,X03H,SW,6.83,3.35,26.0,Morningstar Gbl Trsy Bd GR ...,-24.08840639933514,2020-03-09,Ongoing,-0.21237058667373798,21
-Government - Global,Xtrackers II Global Government UCITS ETF,Government,Global,GBP,Medium,XGSG,LSE,6.83,3.35,15.0,Morningstar Gbl Trsy Bd GR ...,-18.531917871564218,2020-03-09,Ongoing,3.901556193363964,22
-Government - Global,Xtrackers II Global Government UCITS ETF,Government,Global,USD,Medium,XZWG,LSE,6.84,3.36,20.0,Morningstar Gbl Trsy Bd GR USD,-27.48964988161845,2021-12-17,Ongoing,7.504677780961866,23
+Government - Global,Xtrackers II Global Government UCITS ETF,Government,Global,GBP,Medium,XGSG,LSE,6.83,3.35,15.0,Morningstar Gbl Trsy Bd GR ...,-18.531917871564218,2020-03-09,Ongoing,3.7709436110197947,22
+Government - Global,Xtrackers II Global Government UCITS ETF,Government,Global,USD,Medium,XZWG,LSE,6.84,3.36,20.0,Morningstar Gbl Trsy Bd GR USD,-27.48964988161845,2021-12-17,Ongoing,7.1386775892334775,23
 Government - European,Vanguard Eurozone Government Bond UCITS ETF,Government,European,EUR,Medium/Long,VGEB,XETRA,7.03425,2.86044,7.000000000000001,Morningstar EZN Trsy Bd GR EUR,-22.147300496727162,2020-12-11,Ongoing,1.2679964210507322,24
 Government - European,Xtrackers II Eurozone Government Bond UCITS ETF,Government,European,EUR,Medium/Long,X03F,XETRA,7.05,2.79,11.0,Morningstar EZN Trsy Bd GR EUR,-22.47291806028415,2020-12-11,Ongoing,1.2574798775708773,25
 Government - European,iShares Core Euro Government Bond UCITS ETF,Government,European,EUR,Medium/Long,EUNH,XETRA,7.06389,2.78,7.000000000000001,Morningstar EZN Trsy Bd GR EUR,-22.428665709072547,2020-12-11,Ongoing,1.4493942850265729,26
 Government - European,Amundi Euro Government Bond 7-10Y UCITS ETF,Government,European,EUR,Medium/Long,LYXD,XETRA,7.499,3.0,17.0,Morningstar EZN Trsy Bd GR EUR,-22.485587811406216,2020-12-15,Ongoing,2.496848928635731,27
-Government - UK,iShares Core UK GILTS,Government,UK,GBP,Medium/Long,IGLT,LSE,7.80634,4.3,7.000000000000001,Morningstar UK Gilt Bd GR GBP,-35.522698342158584,2020-05-05,Ongoing,3.9472987988782293,28
-Government - UK,Amundi Core UK Government Bond UCITS ETF,Government,UK,GBP,Medium/Long,GILS,LSE,8.0536,4.31,5.0,,-38.74693578099816,2020-03-09,Ongoing,3.8106698756518176,29
-Government - UK,Vanguard U.K. Gilt UCITS ETF,Government,UK,GBP,Medium/Long,VGOV,LSE,8.05873,4.62613,5.0,Morningstar UK Gilt Bd GR GBP,-39.2814797764179,2020-05-05,Ongoing,4.136172316659836,30
-Government - US,iShares USD Treasury Bond 7-10yr UCITS ETF,Government,US,USD,Medium,CBU0,LSE,6.98901,4.0,7.000000000000001,,-23.447954849595632,2020-08-06,Ongoing,8.677237565193053,31
-Government - US,iShares USD Treasury Bond 7-10yr UCITS ETF,Government,US,GBP,Medium,IGTM,LSE,6.99912,4.0,10.0,-,-24.908945367220337,2020-08-06,Ongoing,8.13345178166025,32
+Government - UK,iShares Core UK GILTS,Government,UK,GBP,Medium/Long,IGLT,LSE,7.80634,4.3,7.000000000000001,Morningstar UK Gilt Bd GR GBP,-35.522698342158584,2020-05-05,Ongoing,4.158965855925323,28
+Government - UK,Amundi Core UK Government Bond UCITS ETF,Government,UK,GBP,Medium/Long,GILS,LSE,8.0536,4.31,5.0,,-38.74693578099816,2020-03-09,Ongoing,4.02085631204252,29
+Government - UK,Vanguard U.K. Gilt UCITS ETF,Government,UK,GBP,Medium/Long,VGOV,LSE,8.05873,4.62613,5.0,Morningstar UK Gilt Bd GR GBP,-39.2814797764179,2020-05-05,Ongoing,3.836922677737409,30
+Government - US,iShares USD Treasury Bond 7-10yr UCITS ETF,Government,US,USD,Medium,CBU0,LSE,6.98901,4.0,7.000000000000001,,-23.447954849595632,2020-08-06,Ongoing,8.810388159731918,31
+Government - US,iShares USD Treasury Bond 7-10yr UCITS ETF,Government,US,GBP,Medium,IGTM,LSE,6.99912,4.0,10.0,-,-24.908945367220337,2020-08-06,Ongoing,7.989367200767927,32
 Government - US,iShares USD Treasury Bond 7-10yr UCITS ETF,Government,US,EUR,Medium,CEMF,XETRA,,,,,-1.3403689866348212,2025-10-21,Ongoing,3.317139216310916,33
