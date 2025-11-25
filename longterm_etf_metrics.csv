@@ -1,4 +1,4 @@
-region,category,issuer,horizon,ticker,exchange,duration_yrs,ytm_pct,ter_pct,benchmark,maxdd_pct,dd_start,dd_end,ytd_pct,order
+region,category,geography,horizon,ticker,exchange,duration_yrs,ytm_pct,ter_pct,benchmark,maxdd_pct,dd_start,dd_end,ytd_pct,order
 Aggregate,Aggregate,Global,Medium,VAGE,XETRA,6.31085,3.76938,10.0,Morningstar Gbl Core Bd GR ...,-19.43310288037605,2021-01-04,Ongoing,3.3766387208254756,1
 Aggregate,Aggregate,European,Medium,SYBA,XETRA,6.31,2.88,17.0,Morningstar EZN Core Bd GR EUR,-20.575765346028497,2020-12-14,Ongoing,1.5525780758943952,2
 Aggregate,Aggregate,Global,Medium,EUNU,XETRA,6.30941,3.47,10.0,Morningstar Gbl Core Bd GR USD,-12.880011749155528,2021-12-07,Ongoing,-4.549403092502036,3
