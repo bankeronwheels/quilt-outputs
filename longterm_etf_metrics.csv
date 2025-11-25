@@ -1,15 +1,15 @@
-region,category,geography,horizon,ticker,exchange,duration_yrs,ytm_pct,ter_pct,benchmark,maxdd_pct,dd_start,dd_end,ytd_pct,order
-Aggregate,Aggregate,Global,Medium,VAGE,XETRA,6.31085,3.76938,10.0,Morningstar Gbl Core Bd GR ...,-19.43310288037605,2021-01-04,Ongoing,3.3766387208254756,1
-Aggregate,Aggregate,European,Medium,SYBA,XETRA,6.31,2.88,17.0,Morningstar EZN Core Bd GR EUR,-20.575765346028497,2020-12-14,Ongoing,1.5525780758943952,2
-Aggregate,Aggregate,Global,Medium,EUNU,XETRA,6.30941,3.47,10.0,Morningstar Gbl Core Bd GR USD,-12.880011749155528,2021-12-07,Ongoing,-4.549403092502036,3
-Aggregate,Aggregate,European,Medium,EUNA,XETRA,6.30941,3.47,10.0,Morningstar Gbl Core Bd GR ...,-17.791297251177806,2021-01-04,Ongoing,2.596028139201878,4
-Aggregate,Aggregate,US,Medium,EUNX,XETRA,5.87912,4.51,25.0,Morningstar US Core Bd TR USD,-16.113087114903134,2012-07-24,2014-12-23,-5.035078520092751,5
-Government,Government,UK,Medium/Long,VGOV,LSE,8.05873,4.62613,5.0,Morningstar UK Gilt Bd GR GBP,-39.2814797764179,2020-05-05,Ongoing,3.7783719432463503,6
-Government,Government,UK,Medium/Long,GILS,LSE,8.0536,4.31,5.0,,-38.74693578099816,2020-03-09,Ongoing,3.8106698756518176,7
-Government,Government,UK,Medium/Long,IGLT,LSE,7.80634,4.3,7.000000000000001,Morningstar UK Gilt Bd GR GBP,-35.522698342158584,2020-05-05,Ongoing,3.9472987988782293,8
-Government,Government,European,Medium/Long,LYXD,XETRA,7.499,3.0,17.0,Morningstar EZN Trsy Bd GR EUR,-22.485587811406216,2020-12-15,Ongoing,2.2597683212292052,9
-Government,Government,European,Medium/Long,EUNH,XETRA,7.06389,2.78,7.000000000000001,Morningstar EZN Trsy Bd GR EUR,-22.428665709072547,2020-12-11,Ongoing,1.2305765027994964,10
-Government,Government,European,Medium/Long,X03F,XETRA,7.05,2.79,11.0,Morningstar EZN Trsy Bd GR EUR,-22.47291806028415,2020-12-11,Ongoing,1.0262716889377632,11
-Government,Government,European,Medium/Long,VGEB,XETRA,7.03425,2.86044,7.000000000000001,Morningstar EZN Trsy Bd GR EUR,-22.147300496727162,2020-12-11,Ongoing,1.164062288177714,12
-Government,Government,Global,Medium,DBZB,XETRA,6.83,3.35,26.0,Morningstar Gbl Trsy Bd GR ...,-21.88138240358817,2020-03-09,Ongoing,1.5479280838381015,13
-Government,Government,Global,Medium,EUN3,XETRA,6.7665,3.42,20.0,Morningstar Gbl Trsy Bd GR USD,-21.484512806039657,2020-04-29,Ongoing,-5.8191601714638,14
+region,name,category,geography,horizon,ticker,exchange,etf_url,duration_yrs,ytm_pct,ter_pct,benchmark,maxdd_pct,dd_start,dd_end,ytd_pct,order
+Aggregate,Vanguard Global Aggregate Bond UCITS ETF,Aggregate,Global,Medium,VAGE,XETRA,,6.31085,3.76938,10.0,Morningstar Gbl Core Bd GR ...,-19.43310288037605,2021-01-04,Ongoing,3.3766387208254756,1
+Aggregate,SPDR Bloomberg Euro Aggregate Bond UCITS ETF,Aggregate,European,Medium,SYBA,XETRA,www.spdrseurope.com,6.31,2.88,17.0,Morningstar EZN Core Bd GR EUR,-20.575765346028497,2020-12-14,Ongoing,1.5525780758943952,2
+Aggregate,iShares Core Global Aggregate Bond UCITS ETF,Aggregate,Global,Medium,EUNU,XETRA,,6.30941,3.47,10.0,Morningstar Gbl Core Bd GR USD,-12.880011749155528,2021-12-07,Ongoing,-4.549403092502036,3
+Aggregate,iShares EUR Aggregate Bond ESG SRI UCITS ETF,Aggregate,European,Medium,EUN4,XETRA,www.ishares.com,6.25358,2.82,16.0,Morningstar EZN Core Bd GR EUR,-20.447002848835506,2020-12-11,Ongoing,1.484639622081585,4
+Aggregate,SPDR Bloomberg Global Aggregate Bond UCITS ETF,Aggregate,Global,Medium,SPFU,XETRA,,,,0.0,,-15.245521119393224,2021-01-04,2025-09-11,4.720040011295712,5
+Government,Vanguard U.K. Gilt UCITS ETF,Government,UK,Medium/Long,VGOV,LSE,,8.05873,4.62613,5.0,Morningstar UK Gilt Bd GR GBP,-39.2814797764179,2020-05-05,Ongoing,3.7783719432463503,6
+Government,Lyxor Core FTSE Actuaries UK Gilt,Government,UK,Medium/Long,GILS,LSE,,8.0536,4.31,5.0,,-38.74693578099816,2020-03-09,Ongoing,3.8106698756518176,7
+Government,iShares Core UK GILTS,Government,UK,Medium/Long,IGLT,LSE,https://www.ishares.com/uk/individual/en/products/251806/ishares-uk-gilts-ucits-etf,7.80634,4.3,7.000000000000001,Morningstar UK Gilt Bd GR GBP,-35.522698342158584,2020-05-05,Ongoing,3.9472987988782293,8
+Government,Amundi Euro Government Bond 7-10Y UCITS ETF,Government,European,Medium/Long,LYXD,XETRA,www.lyxoretf.de,7.499,3.0,17.0,Morningstar EZN Trsy Bd GR EUR,-22.485587811406216,2020-12-15,Ongoing,2.2597683212292052,9
+Government,iShares Core Euro Government Bond UCITS ETF,Government,European,Medium/Long,EUNH,XETRA,www.ishares.com,7.06389,2.78,7.000000000000001,Morningstar EZN Trsy Bd GR EUR,-22.428665709072547,2020-12-11,Ongoing,1.2305765027994964,10
+Government,Xtrackers II Eurozone Government Bond UCITS ETF,Government,European,Medium/Long,X03F,XETRA,www.dbxtrackers.com,7.05,2.79,11.0,Morningstar EZN Trsy Bd GR EUR,-22.47291806028415,2020-12-11,Ongoing,1.0262716889377632,11
+Government,Vanguard Eurozone Government Bond UCITS ETF,Government,European,Medium/Long,VGEB,XETRA,,7.03425,2.86044,7.000000000000001,Morningstar EZN Trsy Bd GR EUR,-22.147300496727162,2020-12-11,Ongoing,1.164062288177714,12
+Government,Xtrackers II Global Government UCITS ETF,Government,Global,Medium,DBZB,XETRA,www.dbxtrackers.com,6.83,3.35,26.0,Morningstar Gbl Trsy Bd GR ...,-21.88138240358817,2020-03-09,Ongoing,1.5479280838381015,13
+Government,iShares Global Government Bond UCITS ETF,Government,Global,Medium,EUN3,XETRA,www.ishares.com,6.7665,3.42,20.0,Morningstar Gbl Trsy Bd GR USD,-21.484512806039657,2020-04-29,Ongoing,-5.8191601714638,14
