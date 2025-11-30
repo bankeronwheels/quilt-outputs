@@ -1,6 +1,6 @@
 {
   "ticker": "VWCE.XETRA",
-  "generated_utc": "2025-11-29T03:11:23.792081+00:00",
+  "generated_utc": "2025-11-30T03:26:32.527203+00:00",
   "source": "EODHD fundamentals",
   "mapping_file": "scripts/vwce/vwce.xlsx",
   "us_stock_long_pct": 62.83451,
